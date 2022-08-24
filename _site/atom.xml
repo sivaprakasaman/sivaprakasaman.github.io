@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Hi, I&apos;m Andrew.</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2022-08-24T00:09:45-04:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>Andrew Sivaprakasam</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Research Portfolio</title>
+   <link href="http://localhost:4000/development/design/2016/02/20/Research.html"/>
+   <updated>2016-02-20T16:15:00-05:00</updated>
+   <id>http://localhost:4000/development/design/2016/02/20/Research</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Visual Art Portfolio</title>
+   <link href="http://localhost:4000/development/design/2016/02/20/Photography.html"/>
+   <updated>2016-02-20T16:15:00-05:00</updated>
+   <id>http://localhost:4000/development/design/2016/02/20/Photography</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Music Portfolio</title>
+   <link href="http://localhost:4000/development/design/2016/02/20/Music.html"/>
+   <updated>2016-02-20T16:15:00-05:00</updated>
+   <id>http://localhost:4000/development/design/2016/02/20/Music</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+
+</feed>

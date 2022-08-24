@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "UNDER CONSTRUCTION."
+title: "Hi, I'm Andrew."
 email: 'andrew.n.sivaprakasam@gmail.com'
-description: "I'm an engineer, neuroscientist, and MD/PhD Candidate."
+description: "I'm an engineer, neuroscientist, and MD/PhD Candidate with a passion for music and photography."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sivaprakasaman.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: 'sivaprakawesome'
@@ -91,10 +91,10 @@ pagination:
 ############################################################
 
 ### Phantom settings
-footer_text: '© 2022 Andrew Sivaprakasam'
+footer_text: '© 2022 Andrew Sivaprakasam | Fork of Phantom Jekyll theme by Jami Gibbs'
 admin_name: 'Andrew Sivaprakasam'
 google_analytics: "UA-9999999-99" # Update with your own tracking ID
-enable_contact: false
+enable_contact: true
 
 #### Phantom Navigation menu
 enable_nav: true
