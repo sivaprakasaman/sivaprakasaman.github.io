@@ -25,6 +25,17 @@ $secondary: #FF7B7B;
 /*--------------------------------------------------------------
 	1.0 Defaults
 --------------------------------------------------------------*/
+div {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+img.emoji {
+    display: inline;
+    height: 1em;
+    width: 1em;
+    margin-bottom: 0.25em;
+}
 
 @media (min-width: 1200px) {
   .container {
@@ -49,7 +60,7 @@ article {
 
 p {
   line-height: 1.8;
-  font-size: 1.3em;
+  font-size: 1.15em;
 }
 
 a {
@@ -112,7 +123,7 @@ button.btn, input.btn {
 	2.0 Home Hero
 --------------------------------------------------------------*/
 .hero-container {
-  margin: 10em 0 9em 0;
+  margin: 10em 0 5em 0;
   @include bp-xsmall {
     margin: 5em 0 5em 0;
   }
@@ -138,7 +149,7 @@ button.btn, input.btn {
     font-size: 48px;
   }
   p {
-    margin: 2em 0 4em 0;
+    margin: 2em 0 2em 0;
   }
   .hero-buttons {
     margin: 0 auto;
@@ -358,6 +369,7 @@ pre {
     border: 0;
     padding-right: 0;
     padding-left: 0; }
+    
 
 /*--------------------------------------------------------------
 	6.0 Syntax highlighting styles

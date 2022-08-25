@@ -5827,6 +5827,16 @@ h1, h2, h3, h4, h5, h6 {
 /*--------------------------------------------------------------
 	1.0 Defaults
 --------------------------------------------------------------*/
+div {
+  text-align: justify;
+  text-justify: inter-word; }
+
+img.emoji {
+  display: inline;
+  height: 1em;
+  width: 1em;
+  margin-bottom: 0.25em; }
+
 @media (min-width: 1200px) {
   .container {
     width: 1200px; } }
@@ -5842,7 +5852,7 @@ article {
 
 p {
   line-height: 1.8;
-  font-size: 1.3em; }
+  font-size: 1.15em; }
 
 a {
   -webkit-transition: color 0.2s ease-in-out;
@@ -5901,7 +5911,7 @@ button.btn, input.btn {
 	2.0 Home Hero
 --------------------------------------------------------------*/
 .hero-container {
-  margin: 10em 0 9em 0; }
+  margin: 10em 0 5em 0; }
   @media only screen and (max-width: 768px) {
     .hero-container {
       margin: 5em 0 5em 0; } }
@@ -5925,7 +5935,7 @@ button.btn, input.btn {
   .hero-content h1 {
     font-size: 48px; }
   .hero-content p {
-    margin: 2em 0 4em 0; }
+    margin: 2em 0 2em 0; }
   .hero-content .hero-buttons {
     margin: 0 auto;
     display: table; }

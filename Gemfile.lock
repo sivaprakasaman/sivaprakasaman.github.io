@@ -7,6 +7,12 @@ PATH
 GEM
   remote: https://rubygems.org/
   specs:
+    activesupport (6.0.5.1)
+      concurrent-ruby (~> 1.0, >= 1.0.2)
+      i18n (>= 0.7, < 2)
+      minitest (~> 5.1)
+      tzinfo (~> 1.1)
+      zeitwerk (~> 2.2, >= 2.2.2)
     addressable (2.8.1)
       public_suffix (>= 2.0.2, < 6.0)
     colorator (1.1.0)
@@ -17,6 +23,10 @@ GEM
     eventmachine (1.2.7)
     ffi (1.15.5)
     forwardable-extended (2.6.0)
+    gemoji (3.0.1)
+    html-pipeline (2.14.2)
+      activesupport (>= 2)
+      nokogiri (>= 1.4)
     http_parser.rb (0.8.0)
     i18n (0.9.5)
       concurrent-ruby (~> 1.0)
@@ -38,6 +48,10 @@ GEM
       sass (~> 3.4)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
+    jemoji (0.12.0)
+      gemoji (~> 3.0)
+      html-pipeline (~> 2.2)
+      jekyll (>= 3.0, < 5.0)
     kramdown (2.4.0)
       rexml
     kramdown-parser-gfm (1.1.0)
@@ -47,9 +61,13 @@ GEM
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.3.6)
+    minitest (5.16.3)
+    nokogiri (1.13.8-x86_64-linux)
+      racc (~> 1.4)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (5.0.0)
+    racc (1.6.0)
     rake (13.0.6)
     rb-fsevent (0.11.1)
     rb-inotify (0.10.1)
@@ -59,7 +77,11 @@ GEM
     safe_yaml (1.0.5)
     sass (3.7.4)
       listen (~> 3.0)
+    thread_safe (0.3.6)
+    tzinfo (1.2.10)
+      thread_safe (~> 0.1)
     webrick (1.7.0)
+    zeitwerk (2.6.0)
 
 PLATFORMS
   x86_64-linux
@@ -67,6 +89,7 @@ PLATFORMS
 DEPENDENCIES
   bundler (~> 2.1)
   jekyll-paginate (~> 1.1.0)
+  jemoji
   kramdown-parser-gfm
   phantom!
   rake (~> 13.0.1)
