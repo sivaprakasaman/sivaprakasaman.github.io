@@ -5,17 +5,19 @@
     <description>I&apos;m an engineer, neuroscientist, and MD/PhD Candidate with a passion for music and photography.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 25 Aug 2022 22:44:28 -0400</pubDate>
-    <lastBuildDate>Thu, 25 Aug 2022 22:44:28 -0400</lastBuildDate>
+    <pubDate>Sat, 27 Aug 2022 01:05:55 -0400</pubDate>
+    <lastBuildDate>Sat, 27 Aug 2022 01:05:55 -0400</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
     
       <item>
-        <title>Research Portfolio</title>
+        <title>Research Objective</title>
         <description>
 </description>
         <pubDate>Sat, 20 Feb 2016 16:15:00 -0500</pubDate>
         <link>http://localhost:4000/development/design/2016/02/20/Research.html</link>
         <guid isPermaLink="true">http://localhost:4000/development/design/2016/02/20/Research.html</guid>
+        
+        <category>Simplified</category>
         
         <category>Neuroscience</category>
         

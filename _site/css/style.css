@@ -5921,7 +5921,7 @@ button.btn, input.btn {
 
 .hero-content {
   width: 60%;
-  margin: 0 auto;
+  margin: 21% auto;
   display: table; }
   @media only screen and (min-width: 992px) and (max-width: 1195px) {
     .hero-content {
@@ -6093,10 +6093,10 @@ button.btn, input.btn {
       .site-footer p {
         text-align: center; } }
   .site-footer .section-jump {
-    float: right; }
+    float: none; }
     @media only screen and (max-width: 768px) {
       .site-footer .section-jump {
-        float: none; } }
+        float: center; } }
 
 /*--------------------------------------------------------------
 	5.0 Code formatting

@@ -9,5 +9,5 @@ featured_image: '/img/posts/portrait_landing.jpg'
 project_link: 'https://sivaprakasaman.github.io/photography'
 button_icon: 'camera'
 button_text: 'View'
-lead_text: "I dabble in photography. Here's a collection of some of my best work."
+lead_text: "I dabble in photography. Here's a collection of some of my favorite work."
 ---
