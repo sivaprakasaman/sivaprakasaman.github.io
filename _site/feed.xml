@@ -5,8 +5,8 @@
     <description>I&apos;m an engineer, neuroscientist, and MD/PhD Candidate with a passion for music and photography.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 27 Aug 2022 01:05:55 -0400</pubDate>
-    <lastBuildDate>Sat, 27 Aug 2022 01:05:55 -0400</lastBuildDate>
+    <pubDate>Tue, 30 Aug 2022 14:38:06 -0400</pubDate>
+    <lastBuildDate>Tue, 30 Aug 2022 14:38:06 -0400</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
     
       <item>
@@ -21,9 +21,7 @@
         
         <category>Neuroscience</category>
         
-        <category>Graphics</category>
-        
-        <category>Adobe</category>
+        <category>Thesis</category>
         
         
         <category>development</category>

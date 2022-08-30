@@ -28,6 +28,7 @@ markdown: kramdown
 plugins:
   - jekyll-paginate
   - jemoji
+  - jekyll-sitemap
 
 ############################################################
 # Site configuration for the Jekyll 3 Pagination Gem
