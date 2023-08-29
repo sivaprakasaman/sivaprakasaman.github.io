@@ -32,3 +32,9 @@ Humans with clinically-diagnosed hearing loss likely have variations in OHC, IHC
 <br>
 <center><img src = "/img/fun_fig.png" style = "width:70%"></center>
 <br>
+
+<br>
+<br>
+<i>This work is currently supported by my NIDCD Ruth L. Kirschstein Predoctoral MD/PhD Fellowship  
+<a href="https://reporter.nih.gov/search/7SG81seX6UOImfxKtf_0SQ/project-details/10680120">1F30DC020916</a>
+.</i>
