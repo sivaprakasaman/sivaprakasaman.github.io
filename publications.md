@@ -24,13 +24,15 @@ permalink: /publications/
 
 1. **A. Sivaprakasam**, H. Bharadwaj, M. Heinz, “[Cross-Species Investigations of Place and Time Coding of Pitch Using Envelope-Following Responses](https://sivaprakasaman.github.io/docs/Sivaprakasam_ARO_2024_PitchEFR_forSubmission.pdf).” presented at Association for Research in Otolaryngology 47th Annual MidWinter Meeting, Anaheim, CA, 2024
 
-2. A. Farhadi, M. Patra, **A. Sivaprakasam**, M. Heinz, “[Investigating Potential Sources of Modulation Enhancement in Noise through Physiologically Recorded and Model Neural Responses](https://sivaprakasaman.github.io/docs/ARO24_AF_ModulationEnhancement.pdf).” presented at Association for Research in Otolaryngology 47th Annual MidWinter Meeting, Anaheim, CA, 2024.
+2. A. Farhadi, S. Hauser, **A. Sivaprakasam**, M. Heinz, “[Evaluation of Efferent Influences on Neural Coding Using Pre-Clinical Models of Sensorineural Hearing Loss](https://sivaprakasaman.github.io/docs/ASA2024_AF_EfferentCoding_SNHL.jpg).” presented at 186th Acoustical Society of America Meeting. Ottawa, ON, 2024.
 
-3. **A. Sivaprakasam**, I. Schweinzger, H. Bharadwaj, M. Heinz, “[Upper-Harmonic Deficits in Temporal Envelope Coding of Tone Complexes and Amplitude Modulations Differentiate Inner Hair Cell Damage From Synaptopathy](https://sivaprakasaman.github.io/docs/Sivaprakasam_ARO_IHC_TTS_2023.pdf),” presented at Association for Research in Otolaryngology 46th Annual MidWinter Meeting, Orlando, FL, 2023.
+3. A. Farhadi, M. Patra, **A. Sivaprakasam**, M. Heinz, “[Investigating Potential Sources of Modulation Enhancement in Noise through Physiologically Recorded and Model Neural Responses](https://sivaprakasaman.github.io/docs/ARO24_AF_ModulationEnhancement.pdf).” presented at Association for Research in Otolaryngology 47th Annual MidWinter Meeting, Anaheim, CA, 2024.
 
-4. **A. Sivaprakasam**, I. Schweinzger, H. Bharadwaj, M. Heinz, “[Inner Hair Cell Damage and Cochlear Synaptopathy Differentially Impact Neural Envelope Coding of Modulations and Pitch](https://sivaprakasaman.github.io/docs/Sivaprakasam_MARC_Talk_22.pdf),” presented at the 9th Midwest Auditory Research Conference, Ann Arbor, MI, 2022. (Talk)
+4. **A. Sivaprakasam**, I. Schweinzger, H. Bharadwaj, M. Heinz, “[Upper-Harmonic Deficits in Temporal Envelope Coding of Tone Complexes and Amplitude Modulations Differentiate Inner Hair Cell Damage From Synaptopathy](https://sivaprakasaman.github.io/docs/Sivaprakasam_ARO_IHC_TTS_2023.pdf),” presented at Association for Research in Otolaryngology 46th Annual MidWinter Meeting, Orlando, FL, 2023.
 
-5. I. Schweinzger, **A. Sivaprakasam**, M. Heinz, “[Differentiating Inner Hair Cell Dysfunction From Cochlear Synaptopathy Using Non-Invasive Measures of Temporal Envelope Coding in Chinchilla](https://sivaprakasaman.github.io/docs/ARO_2022_Poster_FinalDraft.pdf),” presented (virtually) at the Association for Research in Otolaryngology 45th Annual MidWinter Meeting, San Jose, CA, 2022.
+5. **A. Sivaprakasam**, I. Schweinzger, H. Bharadwaj, M. Heinz, “[Inner Hair Cell Damage and Cochlear Synaptopathy Differentially Impact Neural Envelope Coding of Modulations and Pitch](https://sivaprakasaman.github.io/docs/Sivaprakasam_MARC_Talk_22.pdf),” presented at the 9th Midwest Auditory Research Conference, Ann Arbor, MI, 2022. (Talk)
+
+6. I. Schweinzger, **A. Sivaprakasam**, M. Heinz, “[Differentiating Inner Hair Cell Dysfunction From Cochlear Synaptopathy Using Non-Invasive Measures of Temporal Envelope Coding in Chinchilla](https://sivaprakasaman.github.io/docs/ARO_2022_Poster_FinalDraft.pdf),” presented (virtually) at the Association for Research in Otolaryngology 45th Annual MidWinter Meeting, San Jose, CA, 2022.
 
 #### <u>Computational Modeling of Neurophysiology & Frequency Selectivity</u>
 
@@ -54,6 +56,8 @@ permalink: /publications/
 
 #### <u>Medical Education and Innovation</u>
 
-1. Z. Guckien, A. Woloshuk, N. Patel, **A. Sivaprakasam**, A. Warrick, L. Garcia, “Advancing Innovation in Medicine: Expanding the Physician’s Toolbox” presented (virtually) at IUSM Education Day, Indianapolis, IN, 2021. 
+1. B. Duggan, D. Wilson, C. Earl, M. Libke, **A. Sivaprakasam**, N. Patel, I. Demaree, M. Feucht, “Medical Students as Innovators: ​The Design and Feasibility Assessment of a Novel Prototype Closed-Loop Oxygen Flow Control Device Using Simulation and Physiological Modeling​” presented at IUSM Education Day, Indianapolis, IN, 2024.
 
-2. A. Woloshuk, **A. Sivaprakasam**, N. Patel, A. Warrick, A. Witten, L. Brennan, Z. Guckien, N. Diggins, L. Garcia, L. Wang, J. Acchiardo, J. Merrell, “A Prototype ECG for Neonatal Resuscitation,” presented (virtually) at the IUSM Student Research Symposium, Indianapolis, IN, 2020: 
+2. Z. Guckien, A. Woloshuk, N. Patel, **A. Sivaprakasam**, A. Warrick, L. Garcia, “Advancing Innovation in Medicine: Expanding the Physician’s Toolbox” presented  at IUSM Education Day, Indianapolis, IN, 2021. 
+
+3. A. Woloshuk, **A. Sivaprakasam**, N. Patel, A. Warrick, A. Witten, L. Brennan, Z. Guckien, N. Diggins, L. Garcia, L. Wang, J. Acchiardo, J. Merrell, “A Prototype ECG for Neonatal Resuscitation,” presented at the IUSM Student Research Symposium, Indianapolis, IN, 2020: 
