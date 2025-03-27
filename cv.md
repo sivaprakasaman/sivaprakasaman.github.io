@@ -8,4 +8,4 @@ permalink: /cv/
 
 ---
 
-<iframe src="/docs/Sivaprakasam_CV_Web.pdf" style="min-height:100vh;width:100%"></iframe>
+<iframe src="/docs/Sivaprakasam_CV2025.pdf" style="min-height:100vh;width:100%"></iframe>

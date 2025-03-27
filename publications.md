@@ -9,6 +9,7 @@ permalink: /publications/
 ---
 
 ## Publications
+
 1. S. Hauser, **A. Sivaprakasam**, H. Bharadwaj, M. Heinz, "Precision Diagnostics for Complex Sensorineural Hearing Loss," Mechanics of Hearing Workshop 2024 (MoH 2024), Ann Arbor, Michigan, USA. [Zenodo](https://doi.org/10.5281/zenodo.13334652)
 
 2. A. Farhadi, S. Hauser, **A. Sivaprakasam**, M. Heinz, "Simultaneous Recording of Otoacoustic Emissions and Envelope-Following Responses to Evaluate Efferent Influences on Neural Coding," Mechanics of Hearing Workshop 2024 (MoH 2024), Ann Arbor, Michigan, USA. [Zenodo](https://doi.org/10.5281/zenodo.13329441)
@@ -25,19 +26,25 @@ permalink: /publications/
 
 #### <u>Neural Coding of Pitch and Modulations</u>
 
-1. **A. Sivaprakasam**, S. Hauser, H. Bharadwaj, M. Heinz, "[Subtypes of Sensorineural Hearing Loss Variably Alter the Neural Encoding of Fundamental Frequency](https://sivaprakasaman.github.io/docs/GRC_2024_PitchEFR_SNHL_v3.pdf)." presented at the Auditory System Gordon Research Conference (GRC). Smithfield, RI, 2024.
+1. **A. Sivaprakasam**, S. Hauser, M. Heinz, H. Bharadwaj, “[Integrating Physiological and Perceptual Assays to Resolve the Effects of Sensorineural Hearing Loss on Neural Place and Time Cues for Pitch.](https://sivaprakasaman.github.io/docs/Sivaprakasam_ARO_2025_Pitch_Final.pdf)” Association for Research in Otolaryngology 48th Annual MidWinter Meeting, Orlando, FL, 2025.
 
-2. **A. Sivaprakasam**, H. Bharadwaj, M. Heinz, “[Cross-Species Investigations of Place and Time Coding of Pitch Using Envelope-Following Responses](https://sivaprakasaman.github.io/docs/Sivaprakasam_ARO_2024_PitchEFR_forSubmission.pdf).” presented at Association for Research in Otolaryngology 47th Annual MidWinter Meeting, Anaheim, CA, 2024
+2. S. Hauser, **A. Sivaprakasam**, H. Bharadwaj, M. Heinz, “Detecting and Disambiguating ’Hidden’ Cochlear Pathologies: Inner Hair Cell Injury and Cochlear Synaptopathy.” Association for Research in Otolaryngology 48th Annual MidWinter Meeting, Orlando, FL, 2025. (Talk)
 
-3. A. Farhadi, S. Hauser, **A. Sivaprakasam**, M. Heinz, “[Evaluation of Efferent Influences on Neural Coding Using Pre-Clinical Models of Sensorineural Hearing Loss](https://sivaprakasaman.github.io/docs/ASA2024_AF_EfferentCoding_SNHL.jpg).” presented at 186th Acoustical Society of America Meeting. Ottawa, ON, 2024.
+3.  S. Hauser, **A. Sivaprakasam**, H. Bharadwaj, M. Heinz, "[Physiological Profiling of Sensorineural Hearing Loss for Predicting Speech-in-Noise Outcomes for hearing in noise.](https://engineering.purdue.edu/HeinzLab/research/AAS_Poster_pdf_2.pdf)” American Auditory Society, Scottsdale, Arizona, 2025.
 
-4. A. Farhadi, M. Patra, **A. Sivaprakasam**, M. Heinz, “[Investigating Potential Sources of Modulation Enhancement in Noise through Physiologically Recorded and Model Neural Responses](https://sivaprakasaman.github.io/docs/ARO24_AF_ModulationEnhancement.pdf).” presented at Association for Research in Otolaryngology 47th Annual MidWinter Meeting, Anaheim, CA, 2024.
+4. **A. Sivaprakasam**, S. Hauser, H. Bharadwaj, M. Heinz, "[Subtypes of Sensorineural Hearing Loss Variably Alter the Neural Encoding of Fundamental Frequency](https://sivaprakasaman.github.io/docs/GRC_2024_PitchEFR_SNHL_v3.pdf)." presented at the Auditory System Gordon Research Conference (GRC). Smithfield, RI, 2024.
 
-5. **A. Sivaprakasam**, I. Schweinzger, H. Bharadwaj, M. Heinz, “[Upper-Harmonic Deficits in Temporal Envelope Coding of Tone Complexes and Amplitude Modulations Differentiate Inner Hair Cell Damage From Synaptopathy](https://sivaprakasaman.github.io/docs/Sivaprakasam_ARO_IHC_TTS_2023.pdf),” presented at Association for Research in Otolaryngology 46th Annual MidWinter Meeting, Orlando, FL, 2023.
+5. **A. Sivaprakasam**, H. Bharadwaj, M. Heinz, “[Cross-Species Investigations of Place and Time Coding of Pitch Using Envelope-Following Responses](https://sivaprakasaman.github.io/docs/Sivaprakasam_ARO_2024_PitchEFR_forSubmission.pdf).” presented at Association for Research in Otolaryngology 47th Annual MidWinter Meeting, Anaheim, CA, 2024
 
-6. **A. Sivaprakasam**, I. Schweinzger, H. Bharadwaj, M. Heinz, “[Inner Hair Cell Damage and Cochlear Synaptopathy Differentially Impact Neural Envelope Coding of Modulations and Pitch](https://sivaprakasaman.github.io/docs/Sivaprakasam_MARC_Talk_22.pdf),” presented at the 9th Midwest Auditory Research Conference, Ann Arbor, MI, 2022. (Talk)
+6. A. Farhadi, S. Hauser, **A. Sivaprakasam**, M. Heinz, “[Evaluation of Efferent Influences on Neural Coding Using Pre-Clinical Models of Sensorineural Hearing Loss](https://sivaprakasaman.github.io/docs/ASA2024_AF_EfferentCoding_SNHL.jpg).” presented at 186th Acoustical Society of America Meeting. Ottawa, ON, 2024.
 
-7. I. Schweinzger, **A. Sivaprakasam**, M. Heinz, “[Differentiating Inner Hair Cell Dysfunction From Cochlear Synaptopathy Using Non-Invasive Measures of Temporal Envelope Coding in Chinchilla](https://sivaprakasaman.github.io/docs/ARO_2022_Poster_FinalDraft.pdf),” presented (virtually) at the Association for Research in Otolaryngology 45th Annual MidWinter Meeting, San Jose, CA, 2022.
+7. A. Farhadi, M. Patra, **A. Sivaprakasam**, M. Heinz, “[Investigating Potential Sources of Modulation Enhancement in Noise through Physiologically Recorded and Model Neural Responses](https://sivaprakasaman.github.io/docs/ARO24_AF_ModulationEnhancement.pdf).” presented at Association for Research in Otolaryngology 47th Annual MidWinter Meeting, Anaheim, CA, 2024.
+
+8. **A. Sivaprakasam**, I. Schweinzger, H. Bharadwaj, M. Heinz, “[Upper-Harmonic Deficits in Temporal Envelope Coding of Tone Complexes and Amplitude Modulations Differentiate Inner Hair Cell Damage From Synaptopathy](https://sivaprakasaman.github.io/docs/Sivaprakasam_ARO_IHC_TTS_2023.pdf),” presented at Association for Research in Otolaryngology 46th Annual MidWinter Meeting, Orlando, FL, 2023.
+
+9. **A. Sivaprakasam**, I. Schweinzger, H. Bharadwaj, M. Heinz, “[Inner Hair Cell Damage and Cochlear Synaptopathy Differentially Impact Neural Envelope Coding of Modulations and Pitch](https://sivaprakasaman.github.io/docs/Sivaprakasam_MARC_Talk_22.pdf),” presented at the 9th Midwest Auditory Research Conference, Ann Arbor, MI, 2022. (Talk)
+
+10. I. Schweinzger, **A. Sivaprakasam**, M. Heinz, “[Differentiating Inner Hair Cell Dysfunction From Cochlear Synaptopathy Using Non-Invasive Measures of Temporal Envelope Coding in Chinchilla](https://sivaprakasaman.github.io/docs/ARO_2022_Poster_FinalDraft.pdf),” presented (virtually) at the Association for Research in Otolaryngology 45th Annual MidWinter Meeting, San Jose, CA, 2022.
 
 #### <u>Computational Modeling of Neurophysiology & Frequency Selectivity</u>
 
@@ -53,11 +60,15 @@ permalink: /publications/
 
 #### <u>Translational Research & Large-Scale Data Analysis</u>
 
-1. V.M. Athreya, **A. Sivaprakasam**, H. Ginsberg, H. Bharadwaj, M. Heinz, “[Pioneering Cortical Assays of Gap Detection to Explore Temporal Processing in Chinchilla using a Multi-Channel Mini-EEG Cap](https://sivaprakasaman.github.io/docs/ARO2024_VMA_ChinEEG.pdf).” presented at Association for Research in Otolaryngology 47th Annual MidWinter Meeting, Anaheim, CA, 2024.
+1. M. Heinz, A. Grama, S. Hauser, A. Sivaprakasam, H. Bharadwaj, O. Clavier “An Open-Science Cross-Species Data Resource for Standardized Hearing Assessments.” Association for Research in Otolaryngology 48th Annual MidWinter Meeting, Orlando, FL, 2025.
 
-2. **A. Sivaprakasam**, S. Hauser, N. Seidl, D. Hake, H. Bharadwaj, M. Heinz, “[Towards an Open-Source Precision Audiological Diagnostics Core for Large-Scale Data Analysis](https://youtu.be/nibZOeDtV08).” presented at the Virtual Conference on Computational Audiology 2023.
+2. A. Hustedt-Mai, J. Alexander, E. Bartlett, A. Grama, M. Shader, J. Simpson, E. Jensen, S. Hauser,A. Sivaprakasam, M. Heinz “Accessible Precision Audiology Research Center (APARC) in aCommunity-based Innovation Districts.” American Auditory Society, Scottsdale, Arizona, 2025.
 
-3. **A. Sivaprakasam**, V.M. Athreya, H. Ginsberg, H. Bharadwaj, M. Heinz, “[A Chinchilla Mini-EEG Cap Improves Cross-Species Translation for Cortical and Subcortical Evoked Potentials](https://sivaprakasaman.github.io/docs/Sivaprakasam_Mysore_Athreya_EEG_MiniCapPoster.pdf),"presented at Association for Research in Otolaryngology 46th Annual MidWinter Meeting, Orlando, FL, 2023.
+3. V.M. Athreya, **A. Sivaprakasam**, H. Ginsberg, H. Bharadwaj, M. Heinz, “[Pioneering Cortical Assays of Gap Detection to Explore Temporal Processing in Chinchilla using a Multi-Channel Mini-EEG Cap](https://sivaprakasaman.github.io/docs/ARO2024_VMA_ChinEEG.pdf).” presented at Association for Research in Otolaryngology 47th Annual MidWinter Meeting, Anaheim, CA, 2024.
+
+4. **A. Sivaprakasam**, S. Hauser, N. Seidl, D. Hake, H. Bharadwaj, M. Heinz, “[Towards an Open-Source Precision Audiological Diagnostics Core for Large-Scale Data Analysis](https://youtu.be/nibZOeDtV08).” presented at the Virtual Conference on Computational Audiology 2023.
+
+5. **A. Sivaprakasam**, V.M. Athreya, H. Ginsberg, H. Bharadwaj, M. Heinz, “[A Chinchilla Mini-EEG Cap Improves Cross-Species Translation for Cortical and Subcortical Evoked Potentials](https://sivaprakasaman.github.io/docs/Sivaprakasam_Mysore_Athreya_EEG_MiniCapPoster.pdf),"presented at Association for Research in Otolaryngology 46th Annual MidWinter Meeting, Orlando, FL, 2023.
 
 #### <u>Medical Education and Innovation</u>
 
