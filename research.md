@@ -28,8 +28,12 @@ When it comes to hearing loss, experiments from our lab (and others) imply that 
 Humans with clinically-diagnosed hearing loss likely have variations in OHC, IHC, and cochlear synapse damage, which we predict results in differences in pitch perception. Unfortunately, clinical diagnostics can not yet accurately profile the distribution of OHC, IHC, and cochlear synapse damage in a patient specific manner. However, animal models of hearing loss are relatively controlled, and we can use a combination of <b>audiological diagnostics</b>, <b>electrophysiology</b>, and <b>predictive modeling</b> in both humans and chinchillas to estimate what anatomic deficits most likely worsen pitch perception.
 <br>
 <br>
-Stay tuned for more official findings and publications of this work! For a brief visualization and current synopsis, see the poster linked below!
-<center><img src = "/img/aro_poster_picture.png" style = "width:50%"></center>
+Stay tuned for more official findings and publications of this work! For a brief visualization and current synopsis, see our [poster]()!
+<center>
+    <a href="https://sivaprakasaman.github.io/docs/Sivaprakasam_ARO_2025_Pitch_Final.pdf" target="_blank">
+        <img src="/img/aro_poster_picture.png" style="width:50%" alt="ARO Poster Picture">
+    </a>
+</center>
 <br>
 <br>
 <center><h4>As we gain this insight, our work will help engineers, clinicians, and scientists develop better treatments and understanding of sensorineural hearing loss.</h4></center>
