@@ -20,7 +20,7 @@ My work primarily involves studying how <b>outer hair cells (OHCs), inner hair c
 <br>
 <center><img src = "/img/HearingLossEffects_V2.png" style = "width:85%"></center>
 <br>
-When it comes to hearing loss, previous scientific experiments from our lab (and others) imply that certain profiles or patterns of hearing damage differentially alter place vs timing cues. Profiles of damage that primarily affect OHCs more likely disrupt place, while those that disrupt IHCs and the cochlear synapse likely reduce timing. <b>We can use these profiles to study the place vs time importance of pitch processing, while also understanding why pitch perception worsens with certain types of hearing loss.</b>
+When it comes to hearing loss, experiments from our lab (and others) imply that certain profiles or patterns of hearing damage differentially alter place vs timing cues. Profiles of damage that primarily affect OHCs more disrupt place, while those that disrupt IHCs and the cochlear synapse impair the fidelity of temporal envelope coding ([Sivaprakasam et al. 2026](https://www.sciencedirect.com/science/article/pii/S037859552600211X?dgcid=author)). <b>We can use these profiles to study the place vs time importance of pitch processing, while also understanding why pitch perception worsens with certain types of hearing loss.</b>
 <br>
 <br>
 <center><img src = "/img/resubmission_aim_fig_V5.png" style = "width:100%"></center>
@@ -28,13 +28,18 @@ When it comes to hearing loss, previous scientific experiments from our lab (and
 Humans with clinically-diagnosed hearing loss likely have variations in OHC, IHC, and cochlear synapse damage, which we predict results in differences in pitch perception. Unfortunately, clinical diagnostics can not yet accurately profile the distribution of OHC, IHC, and cochlear synapse damage in a patient specific manner. However, animal models of hearing loss are relatively controlled, and we can use a combination of <b>audiological diagnostics</b>, <b>electrophysiology</b>, and <b>predictive modeling</b> in both humans and chinchillas to estimate what anatomic deficits most likely worsen pitch perception.
 <br>
 <br>
+Stay tuned for more official findings and publications of this work! For a brief visualization and current synopsis, see the poster linked below!
+<center><img src = "/img/aro_poster_picture.png" style = "width:50%"></center>
+<br>
+<br>
 <center><h4>As we gain this insight, our work will help engineers, clinicians, and scientists develop better treatments and understanding of sensorineural hearing loss.</h4></center>
+<br>
 <br>
 <center><img src = "/img/fun_fig.png" style = "width:70%"></center>
 <br>
 
 <br>
 <br>
-<i>This work is currently supported by my NIDCD Ruth L. Kirschstein Predoctoral MD/PhD Fellowship  
+<i>This work was supported by my NIDCD Ruth L. Kirschstein Predoctoral MD/PhD Fellowship  
 <a href="https://reporter.nih.gov/search/7SG81seX6UOImfxKtf_0SQ/project-details/10680120">1F30DC020916</a>
 .</i>
