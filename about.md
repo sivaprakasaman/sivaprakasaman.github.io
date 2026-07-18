@@ -10,6 +10,8 @@ permalink: /about/
 
 <center><h1>Hi, I'm Andrew.</h1></center>
 
-Welcome! I'm an MD/PhD candiate in the Indiana University School of Medicine and Purdue University Weldon School of Biomedical Engineering combined [Medical Scientist Training Program](https://medicine.iu.edu/dual-degrees/md-phd). I've recently started my thesis work investigating pitch coding and perception in sensorineural hearing loss with the [Auditory Neurophysiology and Modeling Laboratory](https://engineering.purdue.edu/HeinzLab) and [SNAPLab](https://engineering.purdue.edu/SNAPLab). My long-term goals are to create and utilize translational measures (particularly in electrophysiology and computational modeling) to better link scientific findings in controlled animal models of neurological disease with clinical disease presentations. 
+Welcome! I am an MD/PhD candidate in the Indiana University School of Medicine and Purdue University Weldon School of Bioengineering combined [Medical Scientist Training Program](https://medicine.iu.edu/dual-degrees/md-phd), currently applying for residency programs.
 
-I enjoy a healthy balance of coding ([obviously](https://github.com/sivaprakasaman) :sunglasses:), music, photography, and running in my spare time. Oh, and I love a good espresso. 
+I recently completed my doctoral thesis in auditory neuroscience, co-advised by the [Auditory Neurophysiology and Modeling Laboratory](https://engineering.purdue.edu/HeinzLab) (Heinz Lab) and the [SNAPLab](https://snaplabgroup.github.io/). My research focused on using electrophysiological assays (like ABRs and EFRs) and statistical modeling to differentiate cochlear pathologies and understand how they impact pitch and periodicity processing. Moving forward, my goal is to bridge engineering and clinical medicine as a physician-scientist, utilizing data-driven translational measures to better link mechanistic animal models with human clinical disease presentations.
+
+I enjoy a healthy balance of coding ([obviously](https://github.com/sivaprakasaman) :sunglasses:), music, [photography](https://sivaprakasaman.github.io/photography), and running in my spare time. Oh, and I love a good espresso. 
